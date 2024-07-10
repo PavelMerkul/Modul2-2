@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String args) {
         int initialBalance = 100; // начальная сумма на счету
         int depositAmount = 1600; // сумма пополнения
 
